@@ -14,7 +14,6 @@ import java.util.Scanner;
 
 public class EnigmaMachine implements Serializable {
 /*
-* Enigma Machine class
 * for testing git commit
 * */
     private final String ABC;
