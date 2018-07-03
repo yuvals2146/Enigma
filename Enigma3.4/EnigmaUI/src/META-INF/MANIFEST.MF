@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Machine.jar DecryptionManager.jar
+Main-Class: UI.UI
+
