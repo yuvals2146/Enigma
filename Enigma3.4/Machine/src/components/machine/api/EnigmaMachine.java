@@ -13,9 +13,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class EnigmaMachine implements Serializable {
-/*
-* for testing git commit
-* */
     private final String ABC;
     private final int ROTORS_IN_USE;
     private List<Rotor> theRotors;
@@ -30,7 +27,7 @@ public class EnigmaMachine implements Serializable {
         theReflectors = builder.theReflectors;
         machineStatistics = new Statistics();
     }
-
+//yoyo
     public EnigmaMachine(EnigmaMachine otherMachine){
         ABC = otherMachine.ABC;
         ROTORS_IN_USE = otherMachine.ROTORS_IN_USE;
